@@ -1,0 +1,21 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "Creating NFT from Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yathin Prakash K",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.4",
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0"
+  }
+}
